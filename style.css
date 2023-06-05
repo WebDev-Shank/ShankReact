@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    color:red;
+}
+
+p{
+    font-weight: bolder;
+    color: green;
+    font-size: 30px;
+}
+
+button{
+    border: 3px solid black;
+    border-radius: 50px;
+    padding: 5px 16px;
+    color: blue;
+    font-size: large;
+    background: #000;
+    font-weight: bolder;
+}
+button:active{
+    border: 3px solid red;
+    border-radius: 50px;
+    padding: 5px 16px;
+    color: black;
+    font-size: large;
+    background: red;
+    font-weight: bolder;
+}
